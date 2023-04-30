@@ -1,0 +1,19 @@
+body::before {
+    display: block;
+    content: '';
+    height: 60px;
+}
+
+.navbar-nav .nav-link {
+    font-weight: bold;
+  }
+
+#map {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+.lead{
+    font-weight: bold;
+}
