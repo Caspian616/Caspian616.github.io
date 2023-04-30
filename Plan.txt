@@ -1,0 +1,22 @@
+3D Printing page
+
+1. Brief description
+2. Featured 3D printed items for clients 
+3. What 3D printers we use and measures to ensure quality
+
+Prototyping page 
+
+1. Brief description
+2. Showcase woodworking, laser cutting etc..
+3. placeholder pictures 
+
+Our products 
+
+1. Category filter button (5-ish)
+2. 
+
+Product page 
+
+1. Pen holder, organizers with custom names
+2. 
+
