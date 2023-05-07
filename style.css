@@ -1,7 +1,7 @@
 body::before {
     display: block;
     content: '';
-    height: 60px;
+    height: 100px;
 }
 
 .navbar-nav .nav-link {
@@ -16,4 +16,16 @@ body::before {
 
 .lead{
     font-weight: bold;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: 600px;
+    object-fit: contain;
+}
+
+.carousel-caption {
+    position: relative;
+    left: auto;
+    right: auto;
 }
