@@ -26,6 +26,7 @@ body::before {
 
 .carousel-caption {
     position: relative;
+    padding-top: 4%;
     left: auto;
     right: auto;
 }
